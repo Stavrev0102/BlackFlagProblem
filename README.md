@@ -29,3 +29,17 @@ Output
 
 · In the end, print whether the plunder was successful or not, following the format described above.
 ...
+
+Examples
+
+1.Input --> (["5","40","100"])     Output --> Ahoy! 154.00 plunder gained.
+Comment: The days are 5, and the daily plunder is 40. On the third day, the total plunder is 120, and since it is a third day,
+
+they gain an additional 50% from the daily plunder, which adds up to 140. On the fifth day, the plunder is 220, but
+
+they battle with a warship and lose 30% of the collected cargo, and the total becomes 154. That is more than
+
+expected.
+
+
+2.Input --> (["10", "20", "380"])  Output --> Collected only 36.29% of the plunder.

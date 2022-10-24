@@ -28,3 +28,4 @@ Input
 Output
 
 · In the end, print whether the plunder was successful or not, following the format described above.
+...
